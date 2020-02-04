@@ -1,4 +1,4 @@
-# Clock
+# Clock Only
 Reloj marca fecha y hora completa, responsive y transparente
 
 - El siguiente reloj se muestra la fecha y hora completa actualizada desde JavaScript, además de contar con confguración Responsive.
